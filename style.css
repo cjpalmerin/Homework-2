@@ -1,0 +1,59 @@
+body {
+    background-color: #F8F8F8;
+}
+
+.nav-css {
+    border-bottom: 2px solid cadetblue;
+    padding-left: 11.5%;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.card-img {
+    height: 200px;
+    width: 200px;
+}
+
+.biopic {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    border-radius: 50%;
+}
+
+h2 {
+    color: cadetblue;
+}
+
+h4 {
+    margin:10px;
+    text-align: center;
+    color: cadetblue;
+}
+
+p {
+    margin:10px 20px;
+}
+.card {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.col-6 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.contact-form {
+    margin: 10px 30px;
+}
+
+.margin-fix {
+    margin-top: 15px;
+}
+
+footer {
+    margin-top: 60px;
+}
